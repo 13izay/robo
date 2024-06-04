@@ -1,0 +1,2 @@
+unitree_legged_sdk:unitree_ros_to_real/unitree_legged_msgs:unitree_ros_to_real/unitree_legged_real:voice_control
+-DCATKIN_DEVEL_PREFIX=/home/bijay/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bijay/catkin_ws/install -G Unix Makefiles
